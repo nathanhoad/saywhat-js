@@ -1,0 +1,14 @@
+{
+  "name": "@nathanhoad/saywhat",
+  "version": "4.0.0",
+  "description": "A runtime for SayWhat dialogue",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Nathan Hoad <nathan@nathanhoad.net>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.5.4"
+  }
+}
